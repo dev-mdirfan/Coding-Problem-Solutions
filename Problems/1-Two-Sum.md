@@ -64,7 +64,7 @@ class Solution:
         return l
 ```
 
-### Brute Force : O(n^2)
+### Approach 2: Brute Force : O(n^2)
 ```
 # Brute Force : O(n^2)
 class Solution:
