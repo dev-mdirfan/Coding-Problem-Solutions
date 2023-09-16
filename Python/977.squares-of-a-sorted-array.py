@@ -62,7 +62,3 @@ class Solution:
                 right -= 1
             index -= 1
         return array
-
-
-
-
