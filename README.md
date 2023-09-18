@@ -1,14 +1,25 @@
-# Leetcode Solution in Python, Java, C++, C, JavaScript
+# Coding Platform Solutions
 
 ![Easy](https://img.shields.io/badge/-Easy-green)
 ![Medium](https://img.shields.io/badge/-Medium-yellow)
 ![Hard](https://img.shields.io/badge/-Hard-red)
 
-## Solutions
+This repository contains solutions to problems from various coding platforms.
 
-- [Python](./Python)
-- [Java](./Java)
-- [C++](./C++)
-- [C](./C)
-- [JavaScript](./JavaScript)
-
+- [LeetCode](leetcode-solutions/)
+- [GeeksforGeeks](geeksforgeeks-solutions/)
+- HackerRank
+- InterviewBit
+- CodingNinjas
+- CodeChef
+- HackerEarth
+- CodeForces
+- AtCoder
+- KickStart
+- TopCoder
+- CodeSignal
+- DailyCodingProblem
+- ProjectEuler
+- CodeWars
+- Codility
+- AlgoExpert
